@@ -2,6 +2,8 @@
 
 Kabellos is a WiFi+Bluetooth Pmod&trade; compatible module based on the ESP32-C3-MINI-1 module.
 
+![Kabellos](https://github.com/machdyne/kabellos/blob/c47c4434612ec16a9ce001880813e0f13db4362c/kabellos.png)
+
 This repo contains schematics and pinouts. For a usage example, see the [Zucker SOC](https://github.com/machdyne/zucker).
 
 Find more information on the [Kabellos product page](https://machdyne.com/product/kabellos-wireless-pmod/).
