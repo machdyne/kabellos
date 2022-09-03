@@ -67,4 +67,4 @@ Notes: ESP\_EN and ESP\_BOOT have pull-up resistors and can be left floating.
 
 ## Revisions
 
-V2: Now using the the ESP32-C3-WROOM-02 module instead of ESP32-C3-MINI-1.
+V2: Now using the ESP32-C3-WROOM-02 module instead of ESP32-C3-MINI-1.
