@@ -1,6 +1,6 @@
 # Kabellos Pmod&trade; compatible module
 
-Kabellos is a WiFi+Bluetooth Pmod&trade; compatible module based on the ESP32-C3-MINI-1 module.
+Kabellos is a WiFi+Bluetooth Pmod&trade; compatible module based on the ESP32-C3-WROOM-02 module.
 
 ![Kabellos](https://github.com/machdyne/kabellos/blob/78f1afe503d9ae8d800e081e306f831948fb643d/kabellos.png)
 
@@ -50,8 +50,8 @@ OK
 
 | Pin | Signal | ESP | Firmware |
 | --- | ------ | --- | -------- |
-| 1 | ESP\_EN | EN | EN (active high) |
-| 2 | ESP\_BOOT | GPIO9 | BOOT (active low) |
+| 1 | ESP\_EN | EN | Enable (active high) |
+| 2 | ESP\_BOOT | GPIO9 | Bootloader mode (active low) |
 | 3 | ESP\_TX | GPIO21 | ESP console TX (pmod to host) |
 | 4 | ESP\_RX | GPIO20 | ESP console RX (host to pmod) |
 | 5 | GND | - | |
